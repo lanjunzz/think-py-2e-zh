@@ -172,7 +172,7 @@ print("I sleep all night and I work all day.") ...
 I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
 ```
 
-一旦你定义了一个函数，就可以在其它函数里面来调用这个函数。比如咱们重复一下刚刚讨论的，写一个叫做重 repeat_lyrics 的函数。
+一旦你定义了一个函数，就可以在其它函数里面来调用这个函数。比如咱们重复一下刚刚讨论的，写一个叫做 repeat_lyrics 的函数。
 
 ```Python
 def repeat_lyrics():
@@ -184,7 +184,7 @@ def repeat_lyrics():
 
 ```Python
 >>> repeat_lyrics() 
-I'm a lumberjack, and I'm okay. I sleep all night and I work all day. I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
+I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
 ```
 
 当然了，实际这首歌可不是这样的哈。
@@ -251,7 +251,7 @@ def print_twice(bruce):
     
 ```
 
-这个函数把传来的实际参数的值赋给了一个名字叫做 burce 的形式参数。当函数被调用的时候，就会打印出形式参数的值两次（无论是什么内容）。任何能打印的值都适用于这个函数。
+这个函数把传来的实际参数的值赋给了一个名字叫做 bruce 的形式参数。当函数被调用的时候，就会打印出形式参数的值两次（无论是什么内容）。任何能打印的值都适用于这个函数。
 
 ```Python
 >>> print_twice('Spam')  
