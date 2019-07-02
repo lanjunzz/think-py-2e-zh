@@ -301,7 +301,6 @@ Eric, the half a bee.
 def cat_twice(part1, part2):     
 	cat = part1 + part2     
 	print_twice(cat) 
-    
 ```
 
 这个函数得到两个实参，把它们连接起来，然后调用 print_twice 函数来输出结果两次。
