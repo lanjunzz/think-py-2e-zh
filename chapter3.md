@@ -252,7 +252,6 @@ repeat_lyrics()
 def print_twice(bruce):
 	print(bruce)     
 	print(bruce) 
-    
 ```
 
 这个函数把传来的实际参数的值赋给了一个名字叫做 bruce 的形式参数。当函数被调用的时候，就会打印出形式参数的值两次（无论是什么内容）。任何能打印的值都适用于这个函数。
