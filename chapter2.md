@@ -177,7 +177,7 @@ produces the output
 >>> first = 'throat'  
 >>> second = 'warbler' 
 >>> first + second 
-throatwarbler 
+'throatwarbler'
 ```
 
 星号也就是乘法运算符也可以用在字符串上面，效果就是重复。比如'Spam'*3 结果就是 
