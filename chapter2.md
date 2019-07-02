@@ -241,10 +241,10 @@ v = 5     # velocity in meters/second.
 ## 2.9  Glossary 术语列表
 variable:
 A name that refers to a value.
-变量：有值的量。
 
->assignment:
+>变量：有值的量。
 
+assignment:
 A statement that assigns a value to a variable.
 
 >赋值：给一个变量赋予值。
