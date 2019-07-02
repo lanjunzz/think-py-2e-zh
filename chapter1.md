@@ -33,7 +33,7 @@
 
 有很多站点提供在线运行 Python 的功能。如果你已经用过并且有一定经验了，可以选择你喜欢的。我推荐大家可以试试 PythonAnywhere，对此的使用介绍可以在[这个链接](http://tinyurl.com/thinkpython2e)中找到。
 
-Python 现在有两个主要的分之，即 Python2 和 Python3。如果你学过其中的一个，你会发现他们还挺相似的，而且转换起来也不算难。实际上对于初学者来说，他们只有很细微的差别而已。这本书是用 Python3 写的，但也会对 Python2 进行注解。
+Python 现在有两个主要的分支，即 Python2 和 Python3。如果你学过其中的一个，你会发现他们还挺相似的，而且转换起来也不算难。实际上对于初学者来说，他们只有很细微的差别而已。这本书是用 Python3 写的，但也会对 Python2 进行注解。
 
 Python 的解释器是一个读取并执行 Python 代码的程序。根据你的系统环境，你可以点击图标或者在命令行中输入 python 来运行解释器。它运行起来，你会看到类似这样的输出：
 
@@ -304,12 +304,12 @@ A type that represents whole numbers.
 floating-point:
 A type that represents numbers with fractional parts.
 
->浮点数：简单说，就是有小数点的数了。
+>浮点数：简单说，就是有小数点的数。
 
 string:
 A type that represents sequences of characters.
 
->字符串：一串有序的字符了。
+>字符串：一串有序的字符。
 
 natural language:
 Any one of the languages that people speak that evolved naturally.
