@@ -177,13 +177,14 @@ I'm a lumberjack, and I'm okay. I sleep all night and I work all day.
 ```Python
 def repeat_lyrics():
 	print_lyrics()
-    
+    	print_lyrics()
 ```
 
 然后调用一下这个函数：
 
 ```Python
 >>> repeat_lyrics() 
+I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
 I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
 ```
 
