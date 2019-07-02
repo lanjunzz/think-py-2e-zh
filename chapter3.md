@@ -169,7 +169,8 @@ print("I sleep all night and I work all day.") ...
 
 ```Python
 >>> print_lyrics() 
-I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
+I'm a lumberjack, and I'm okay. 
+I sleep all night and I work all day. 
 ```
 
 一旦你定义了一个函数，就可以在其它函数里面来调用这个函数。比如咱们重复一下刚刚讨论的，写一个叫做 repeat_lyrics 的函数。
@@ -184,8 +185,10 @@ def repeat_lyrics():
 
 ```Python
 >>> repeat_lyrics() 
-I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
-I'm a lumberjack, and I'm okay. I sleep all night and I work all day. 
+I'm a lumberjack, and I'm okay. 
+I sleep all night and I work all day. 
+I'm a lumberjack, and I'm okay. 
+I sleep all night and I work all day. 
 ```
 
 当然了，实际这首歌可不是这样的哈。
