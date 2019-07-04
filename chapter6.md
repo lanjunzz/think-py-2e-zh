@@ -496,9 +496,9 @@ print(c(x, y+3, x+y))
 Ackermann 阿克曼函数的定义如下：
 
 ```Python
-A(m, n) =   n+1	if  m = 0
-			A(m−1, 1)	if  m > 0  and  n = 0
-			A(m−1, A(m, n−1))	if  m > 0  and  n > 0.
+A(m, n) =   n+1			if  m = 0
+	    A(m−1, 1)		if  m > 0  and  n = 0
+	    A(m−1, A(m, n−1))	if  m > 0  and  n > 0.
 ```
 
 看一下[这个连接](http://en.wikipedia.org/wiki/Ackermann_function)。写一个叫做 ack 的函数，实现上面这个阿克曼函数。用你写出的函数来计算 ack(3, 4)，结果应该是 125.看看 m 和 n 更大一些会怎么样。[样例代码](http://thinkpython2.com/code/ackermann.py).
