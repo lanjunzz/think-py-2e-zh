@@ -360,7 +360,7 @@ What do you mean, an African or a European swallow?
 
 ```Bash
 >>> x = 5
->>> y = 6
+>>>  y = 6
 	File "<stdin>", line 1
 	y = 6
 	^
