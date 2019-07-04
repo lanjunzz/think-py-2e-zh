@@ -491,14 +491,10 @@ time 模块提供了一个名字同样叫做 time 的函数，会返回当前格
 
 ###   练习 2
 
-费马大定理内容为，a、b、c、n 均为正整数，在 n 大于 2 的情况，下面的等式关系不成立：
+费马大定理内容为，a、b、c、n 均为正整数，在 n 大于 2 的情况，下面的等式关系不成立：a^n + b^n = c^n 。
 
 
-1.	写一个函数，名叫 check_fermat，这个函数有四个形式参数：a、b、c 以及 n，检查一下费马大定理是否成立，看看在 n 大于 2 的情况下下列等式
-
-![](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython%E8%B4%B9%E9%A9%AC.jpg)
-
-是否成立。
+1.	写一个函数，名叫 check_fermat，这个函数有四个形式参数：a、b、c 以及 n，检查一下费马大定理是否成立，看看在 n 大于 2 的情况下上述等式是否成立。
 
 2.	要求程序输出『Holy smokes, Fermat was wrong!』或者『No, that doesn’t work.』
 
