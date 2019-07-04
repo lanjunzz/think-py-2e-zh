@@ -61,12 +61,10 @@ True 和 False 都是特殊的值，属于 bool 布尔类型；它们俩不是�
 双等号运算符是关系运算符的一种，其他关系运算符如下：
 
 ```Python
-x != y	# x is not equal to y  		二者相等     
-x > y	# x is greater than y  		前者更大     
-x > y	# x is greater than y  		前者更大     
+x != y	# x is not equal to y  		二者不等     
+x > y	# x is greater than y  		前者更大        
 x < y	# x is less than y    		前者更小  
-x >= y	# x is greater than or equal to y 大于等于      
-x >= y	# x is greater than or equal to y 大于等于      
+x >= y	# x is greater than or equal to y 大于等于          
 x <= y	# x is less than or equal to y 	小于等于
 ```
 
