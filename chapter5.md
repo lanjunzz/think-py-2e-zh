@@ -267,7 +267,7 @@ print_n(s, n)
 图 5.1 展示了前面样例中 coundown 函数在 n=3 的时候的栈图。
 
 ________________________________________
-![Figure 5.1: Stack diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure5.1.png)
+![Figure 5.1: Stack diagram.](http://www.greenteapress.com/thinkpython2/html/thinkpython2005.png)
 Figure 5.1: Stack diagram.
 ________________________________________
 
