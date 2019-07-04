@@ -293,12 +293,12 @@ def factorial(n):
 
 返回值 1 与 2 相乘，结果再次返回。
 
-2 的返回值再与 n 也就是 3 想成，得到的结果是 6，就成了整个流程最终得到的答案。
+2 的返回值再与 n 也就是 3 相乘，得到的结果是 6，就成了整个流程最终得到的答案。
 
 图 6.1 表明了这一系列函数调用过程中的栈图。
 
 ________________________________________
-![Figure 6.1: Stack diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython6.1.png)
+![Figure 6.1: Stack diagram](http://www.greenteapress.com/thinkpython2/html/thinkpython2007.png)
 Figure 6.1: Stack diagram.
 ________________________________________
 
