@@ -549,7 +549,7 @@ def draw(t, length, n):
 	t.bk(length*n)
 ```
 ________________________________________
-![Figure 5.2: A Koch curve.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure5.2Koch%20curve.png)
+![Figure 5.2: A Koch curve.](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.png)
 Figure 5.2: A Koch curve.
 ________________________________________
 
