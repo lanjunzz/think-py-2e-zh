@@ -213,7 +213,7 @@ if is_divisible(x, y):
 
 ```Python
 if is_divisible(x, y) == True:
-	print('x is divisible by y'
+	print('x is divisible by y')
 ```
 
 但额外的比较并没有必要。
