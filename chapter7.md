@@ -220,7 +220,7 @@ while True:
 if abs(y-x) < epsilon:
 	break
 ```
-这里可以让 epsilon 的值为 like 0.0000001，差值比这个小就说明已经足够接近了。
+这里可以让 epsilon 的值为 0.0000001，差值比这个小就说明已经足够接近了。
 
 ## 7.6  算法
 
