@@ -201,7 +201,7 @@ def find(word, letter):
 		if word[index] == letter:
 			return index
 		index = index + 1
-			return -1
+	return -1
 ```
 
 简单来说，find 函数，也就是查找，是方括号操作符[]的逆运算。方括号是之道索引然后提取对应的字符，而查找函数是选定一个字符去查找这个字符出现的索引位置。如果字符没有被报道，函数就返回-1。
