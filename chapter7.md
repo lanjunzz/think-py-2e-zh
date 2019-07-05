@@ -135,7 +135,7 @@ while True:
 	if line == 'done':
 		break
 	print(line)
-	print('Done!')
+print('Done!')
 ```
 
 循环条件就是 true，意味条件总是真的，所以循环就一直进行，一直到触发了 break 语句才跳出。
@@ -144,9 +144,9 @@ while True:
 每次循环的时候，程序都会有一个大于号>来提示用户。如果用输入了 done，break 语句就会让程序跳出循环。否则的话程序会重复用户输入的内容，然后回到循环的头部。下面就是一个简单的运行例子：
 
 ```Python
->>>not done
->>>not done
->>>done
+> not done
+not done
+> done
 Done!
 ```
 
