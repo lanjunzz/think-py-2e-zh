@@ -116,7 +116,14 @@ for letter in prefixes:
 输出结果如下：
 
 ```Python
-Jack Kack Lack Mack Nack Oack Pack Qack
+Jack
+Kack
+Lack
+Mack
+Nack
+Oack
+Pack
+Qack
 ```
 
 当然了，有点不准确的地方，因为有“Ouack”和 “Quack”两处拼写错了。做个练习，修改一下程序，改正这个错误。
