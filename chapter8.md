@@ -395,7 +395,7 @@ True
 这次我们得到了正确的结果，但似乎循环只走了三次，这有点奇怪。为了弄明白带到怎么回事，我们可以画一个状态图。在第一次迭代的过程中，is_reverse 的框架如图 8.2 所示。
 
 ________________________________________
-![Figure 8.2](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure8.2.png)
+![Figure 8.2](http://www.greenteapress.com/thinkpython2/html/thinkpython2010.png)
 Figure 8.2: State diagram.
 ________________________________________
 
