@@ -306,7 +306,9 @@ def in_both(word1, word2):
 
 ```Python
 >>> in_both('apples', 'oranges')
-a e s
+a
+e
+s
 ```
 ## 8.10  字符串比较
 
