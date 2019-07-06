@@ -42,9 +42,9 @@ fin 是一个用来表示输入的文件的常用名字。这个文件对象提�
 
 ```Python
 fin = open('words.txt')
-	for line in fin:
-		word = line.strip()
-		print(word)
+for line in fin:
+	word = line.strip()
+	print(word)
 ```
 ## 9.2  练习
 
